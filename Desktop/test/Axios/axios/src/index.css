@@ -1,0 +1,54 @@
+.eGxbrW {
+  display: inline-flex;
+  align-items: center;
+  justify-content: inherit;
+  height: 100%;
+  width: 100%;
+  outline: none;
+  user-select: none;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: x-large;
+  font-weight: 900;
+}
+.isPiMa {
+  display: inline-flex;
+  align-items: center;
+  justify-content: inherit;
+  height: 100%;
+  width: 100%;
+  outline: none;
+  user-select: none;
+  overflow: hidden;
+  font-size: x-large;
+  font-weight: 900;
+}
+.gdBOih {
+  max-width: 100%;
+  width: 322px;
+}
+.Nfhbm {
+  position: relative;
+width: 100%;
+border-radius: inherit;
+overflow-x: auto;
+overflow-y: hidden;
+min-height: 0;
+border: 3px solid rgb(47, 64, 88);
+box-shadow: 6px 3px 6px 3px RGB(47, 64, 70)
+;
+
+}
+
+input[type="text" i] {
+  padding-block: 1px;
+  padding-inline: 2px;
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid;
+}
+select{
+  width: 150PX;
+  height: 50PX;
+  margin: 10px;
+}
